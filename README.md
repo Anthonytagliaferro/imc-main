@@ -1,2 +1,2 @@
 # imc
- Site para calcular o imc.
+ Site para calcular o imc modificado.
